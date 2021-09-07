@@ -156,7 +156,7 @@
 
 * Roguelike third-person shooter
 * 1 - 4 Players
-* Gameplay similar to Borderlands
+* Gameplay similar to Dead Cells
 * Release: 11 Aug, 2020
 * Steam rating: `Overwhelmingly Positive`
 * Price: 24,99 EUR
