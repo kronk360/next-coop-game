@@ -12,7 +12,7 @@
   * [Grounded](#grounded)
   * [GTFO](#gtfo)
   * [Monster Hunter: World](#monster-hunter-world)
-  * [Remnant: From Ashes](#remnant-from-ashes)
+  * [Remnant: From the Ashes](#remnant-from-the-ashes)
   * [Risk of Rain 2](#risk-of-rain-2)
   * [The Ascend](#the-ascend)
   * [Tom Clancy's The Division 2](#tom-clancys-the-division-2)
@@ -140,7 +140,7 @@
 
 **Links:** [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/582010/Monster_Hunter_World/) [![YouTube](https://img.shields.io/badge/Review-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=HBxeTJusD2M)
 
-## Remnant: From Ashes
+## Remnant: From the Ashes
 
 * Souls-like action RPG
 * 1 - 3 Players
