@@ -17,6 +17,7 @@
   * [The Ascend](#the-ascend)
   * [Tom Clancy's The Division 2](#tom-clancys-the-division-2)
   * [Torchlight 2](#torchlight-2)
+  * [Tribes of Midgard](#tribes-of-midgard)
 
 ## Aliens: Fireteam Elite
 
@@ -193,3 +194,14 @@
 * Price: 18,99 EUR
 
 **Links:** [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/200710/Torchlight_II/) [![YouTube](https://img.shields.io/badge/Review-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=orGKxlqTOHU)
+
+## Tribes of Midgard
+
+* Rogue-like tower-defense & action RPG
+* 1 - 10 Players
+* Gameplay similar to Dungeon Defenders
+* Release: 27 Jul, 2021
+* Steam rating: `Mostly Positive`
+* Price: 19,99 EUR
+
+**Links:** [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/858820/Tribes_of_Midgard/) [![YouTube](https://img.shields.io/badge/Review-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=49qL2gLMGL0)
